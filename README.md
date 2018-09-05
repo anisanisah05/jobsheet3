@@ -3,9 +3,15 @@
 
 latihan1
 
+a
+
 ![alt text](https://github.com/anisanisah05/jobsheet3/blob/master/1a.PNG)
 
+b
+
 ![alt text](https://github.com/anisanisah05/jobsheet3/blob/master/1b.PNG)
+
+d. hasilnya tetap sama tetapi folder langsung akan terbentuk class dari pertama dan kedua karena test pertama kedua terhubung dengan kedua file di atas
 
 latihan2
 
