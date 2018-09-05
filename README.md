@@ -27,6 +27,6 @@ latihan6
 
 ![alt text](https://github.com/anisanisah05/jobsheet3/blob/master/6.PNG)
 
-latihan7
+praktikum
 
 ![alt text](https://github.com/anisanisah05/jobsheet3/blob/master/7.PNG)
